@@ -1,4 +1,4 @@
-# ExchangeRatesAPI - Currency Exchange Rates API Net Core
+# ExchangeRatesAPI.NetCore - Currency Exchange Rates API Net Core
 
 
 <!--

@@ -17,7 +17,7 @@ namespace ExchangeRates
         #endregion
         #region Constructor
 
-        public ExchangeRatesApi(HttpClient client, bool debug) : base( client, debug)
+        public ExchangeRatesApi(HttpClient client, bool debug = false) : base( client, debug)
         {
             _debug = debug;
         }
