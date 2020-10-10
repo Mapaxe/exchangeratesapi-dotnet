@@ -6,7 +6,7 @@
  -->
 
 ![.NET Core Build](https://github.com/Mapaxe/exchangeratesapi-dotnet/workflows/.NET%20Core/badge.svg?branch=master)
-[![NuGet Badge](https://www.nuget.org/packages/ExchangeRatesAPI.NetCore?vWidth=100&dWidth=100)](https://www.nuget.org/packages/ExchangeRatesAPI.NetCore)
+[![NuGet Badge](https://buildstats.info/nuget/ExchangeRatesAPI.NetCore?vWidth=100&dWidth=100)](https://www.nuget.org/packages/ExchangeRatesAPI.NetCore)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 

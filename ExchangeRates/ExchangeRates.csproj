@@ -2,6 +2,10 @@
 
     <PropertyGroup>
         <TargetFramework>netcoreapp3.1</TargetFramework>
+        <PackageId>ExchangeRatesAPI.NetCore</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Mapaxe</Authors>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>
